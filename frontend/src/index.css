@@ -65,7 +65,7 @@ main {
 }
 
 .prod-img> .card-img-top{
-height: 300px;
+height: 320px;
 }
 
 
@@ -121,6 +121,8 @@ height: 300px;
 
 /* sidebar */
 
+
+
 /* search csreen */
 
 .products-row{
@@ -128,6 +130,7 @@ height: 300px;
 }
 
 /* search csreen */
+
 
 
 /* בשביל האדמין- בשביל כפתור מחיקת תמונה */
