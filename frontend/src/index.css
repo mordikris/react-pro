@@ -24,7 +24,7 @@ header > a {
   font-weight: bold;
   text-decoration: none;
    } */
-/* .products {
+.products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -33,7 +33,7 @@ header > a {
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
-} */
+}
 
 .product>img {
   width: 100%;
